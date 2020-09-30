@@ -1,2 +1,3 @@
 # leguandashi
 test
+printf("welcome!!");
